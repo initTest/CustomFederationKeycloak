@@ -1,0 +1,11 @@
+com/lockin/auth/provider/simple/HashMapStorageProvider$1.class
+com/lockin/auth/provider/simple/HashMapStorageProvider.class
+com/lockin/auth/provider/user/CustomUserStorageProvider.class
+com/lockin/auth/provider/user/DbUtil.class
+com/lockin/auth/provider/user/CustomUser.class
+com/lockin/auth/provider/user/CustomUser$1.class
+com/lockin/auth/provider/simple/HashMapStorageProviderFactory.class
+com/lockin/auth/provider/user/CustomUserStorageProviderFactory.class
+com/lockin/auth/provider/simple/HashMapUserStore.class
+com/lockin/auth/provider/simple/User.class
+com/lockin/auth/provider/user/CustomUser$Builder.class

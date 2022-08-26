@@ -1,0 +1,8 @@
+/home/tecnored/GitProjects/customKeycloak/src/main/java/com/lockin/auth/provider/user/CustomUser.java
+/home/tecnored/GitProjects/customKeycloak/src/main/java/com/lockin/auth/provider/user/CustomUserStorageProviderFactory.java
+/home/tecnored/GitProjects/customKeycloak/src/main/java/com/lockin/auth/provider/user/DbUtil.java
+/home/tecnored/GitProjects/customKeycloak/src/main/java/com/lockin/auth/provider/user/CustomUserStorageProvider.java
+/home/tecnored/GitProjects/customKeycloak/src/main/java/com/lockin/auth/provider/simple/HashMapUserStore.java
+/home/tecnored/GitProjects/customKeycloak/src/main/java/com/lockin/auth/provider/simple/User.java
+/home/tecnored/GitProjects/customKeycloak/src/main/java/com/lockin/auth/provider/simple/HashMapStorageProviderFactory.java
+/home/tecnored/GitProjects/customKeycloak/src/main/java/com/lockin/auth/provider/simple/HashMapStorageProvider.java
